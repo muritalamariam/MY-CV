@@ -1,0 +1,30 @@
+.font{
+  box-sizing: border-box
+}
+
+.first{
+background-color: lightskyblue;
+padding-bottom: 10px;
+
+}
+.second{
+    background-color: lightskyblue;
+} 
+.gold{
+background-color:lightskyblue;
+
+
+}
+h1{
+justify-content: left;
+background-image: radial-gradient(black, pink, yellow);
+}
+
+
+
+
+    
+
+
+
+
